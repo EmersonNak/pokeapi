@@ -1,0 +1,39 @@
+h1{
+    color: black;
+    background-color: white;
+    
+}
+
+.btnBuscar{
+    background-color: rgb(7, 248, 7);
+    color: black;
+    width: 100%;
+}
+
+main{
+    width: 100%;
+    height: calc(100vh - 80px);
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    background-image: url(./../assets/aaaa.png);
+    background-size: cover;
+    height: 100vh;
+}
+
+.visor{
+    width: 300px;
+    height: 300px;
+
+}
+
+a{
+    color: red;
+}
+
+footer{
+    color: aqua;
+}
+
+
+
