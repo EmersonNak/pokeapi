@@ -21,7 +21,7 @@ main{
     height: 100vh;
 }
 
-.visor{
+div #visor{
     width: 300px;
     height: 300px;
 
